@@ -2,6 +2,27 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java** con **Swing** para la gestión de registro y autenticación de usuarios. Está diseñada para garantizar la seguridad y validez de los datos ingresados, mediante validaciones avanzadas y controles de calidad.
 
+```plaintext
+proaula
+├── controller
+│   └── Controladores encargados de gestionar la lógica entre la vista y los modelos.
+├── imagenes
+│   └── Archivos multimedia utilizados en la interfaz gráfica.
+├── librerias
+│   └── Dependencias externas o utilidades adicionales.
+├── model
+│   ├── Clases que representan las entidades del sistema.
+│   ├── Implementaciones del patrón DAO para el acceso a la base de datos.
+│   └── Utilidades como la encriptación de contraseñas y sesiones.
+├── resources
+│   └── Archivos de configuración y datos adicionales.
+├── sombra
+│   └── Elementos auxiliares para efectos visuales.
+├── vista
+│   └── Interfaces gráficas desarrolladas con Java Swing.
+└── Proaula.java
+    └── Clase principal para ejecutar el proyecto.
+```
 ## Características
 
 - **Registro de usuarios**:
