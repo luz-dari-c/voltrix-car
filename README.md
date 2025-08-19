@@ -53,8 +53,4 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 3. **Servidor MySQL**.
 4. **Driver JDBC para MySQL** (conectado al proyecto).
 
-## Instalación
 
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
